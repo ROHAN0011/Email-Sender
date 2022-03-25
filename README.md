@@ -1,2 +1,2 @@
 # Email-Sender
- Simple prototype - under
+ Simple prototype - under progress
