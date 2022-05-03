@@ -1,4 +1,4 @@
 # Email-Sender
  Simple prototype - under progress
  
-This model
+This model work like
