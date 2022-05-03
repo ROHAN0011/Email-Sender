@@ -1,3 +1,4 @@
 # Email-Sender
  Simple prototype - under progress
- This 
+ 
+This model
