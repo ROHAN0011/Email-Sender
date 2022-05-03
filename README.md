@@ -1,4 +1,4 @@
 # Email-Sender
  Simple prototype - under progress
  
-This model work like
+This model work like our Gmail
